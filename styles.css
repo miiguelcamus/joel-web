@@ -92,3 +92,4 @@ footer{background:#1b2a31;color:#b9c4c8;padding:38px 0 18px;position:relative;ov
 @media(max-width:600px){html{font-size:16px}.top{padding:10px 16px}.hcta{display:none}.sec{padding:34px 0}.hero{padding:22px 0 30px}.trust b{font-size:1.5rem}
 .steps,.kgrid,.fg,.fs{grid-template-columns:1fr}.card{grid-template-columns:1fr}.cimg{min-height:190px;max-height:220px}.gal,.g4{grid-template-columns:1fr 1fr}.hv{min-height:330px}.btns .btn{flex:1 1 100%;justify-content:space-between}.bm{padding:16px}.bmfig{max-width:220px}.p3{max-height:360px}}
 @media(prefers-reduced-motion:reduce){*,*:before,*:after{animation:none!important;transition:none!important}.reveal{opacity:1;transform:none}}
+img[data-pix]{visibility:hidden}img[data-pix].pxd{visibility:visible}img[data-pix].pxf{visibility:visible;filter:blur(14px)}
